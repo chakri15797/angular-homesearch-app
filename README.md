@@ -7,7 +7,7 @@ git clone or Download the zip file
 
 cd <folder-name>
 
-Terminal-1: npm serve
+Terminal-1: ng serve
 Open http://localhost:4200 in a browser to check webpage
 
 Terminal-2: json-server db.json
